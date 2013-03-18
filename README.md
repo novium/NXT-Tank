@@ -13,8 +13,8 @@ Create a robot at livebots.cc and get your robot id from the url (like http://li
 Now you should have a working robot connected to Livebots, if you get any issues create a new issue here @ GitHub
 
 
-Please read LICENSE.md
-----------------------
+Before using any files read LICENSE.md
+--------------------------------------
 
 [license]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
 ![license]
