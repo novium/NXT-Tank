@@ -3,7 +3,7 @@
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
 
-Give attributions to Alexander Troshin and link it to https://github.com/Zoidberrg
+Give attributions to Alexander Troshin and link it to https://github.com/Novium
 
 License
 
