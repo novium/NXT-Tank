@@ -1,6 +1,9 @@
 To make a copy of this project you first need to get all libraries for Python
+
 Libusb
+
 Pyusb
+
 nxt-python
 
 Then make the Mindstorms starter model and put the Ultrasonic sensor in the front connected to port 4
