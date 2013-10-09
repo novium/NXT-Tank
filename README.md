@@ -14,3 +14,8 @@ Otherwise you can use this project to make your own robot, but you will need to 
 
 Licensed under MIT License
 (c) Alexander Troshin
+
+
+Need help?
+----------
+Hit me up with an email on alexander@ub3rfish.net, I will try to answer as fast as possible (>1 day).
