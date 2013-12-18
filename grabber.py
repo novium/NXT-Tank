@@ -18,12 +18,15 @@ def forward():
 def backward():
         sm = SynchronizedMotors(m_right, m_left, 0)
         sm.turn(-127, 360)
+        
 def right():
         sm = SynchronizedMotors(m_right, m_left, 127)
         sm.turn(127, 180)
+        
 def left():
         sm = SynchronizedMotors(m_left, m_right, 127)
         sm.turn(127, 180)
+        
 def stuck():
         sm = SynchronizedMotors(m_right, m_left, 0)
         sm.turn(-127, 1000)

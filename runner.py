@@ -1,2 +1,2 @@
 import livebots
-livebots.livebot('40')
+livebots.livebot('YOUR_BOT_ID')
