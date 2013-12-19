@@ -1,9 +1,17 @@
 #!/usr/bin/env python
 
+// NXT controller - functions that the robot will do
+// Initialized with some basic movement functions +
+// stopping the robot from going forward into a
+// wall
+
 import nxt.locator
 import time
 from nxt.motor import *
 from nxt.sensor import *
+
+// PythonNXT - tricky stuff - no documentation
+// This should cover it - from my research
 
 b = nxt.locator.find_one_brick()
 
