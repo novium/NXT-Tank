@@ -18,4 +18,4 @@ Licensed under MIT License
 
 Need help?
 ----------
-Hit me up with an email on alexander@ub3rfish.net, I will try to answer as fast as possible (>1 day).
+Hit me up with an email on alexander@wiftie.net, I will try to answer as fast as possible (>1 day).
