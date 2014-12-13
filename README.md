@@ -1,3 +1,10 @@
+DISCLAIMER
+-----------
+I CORRUPTED MY WINDOWS 10 INSTALLATION BY DOING THIS. SO, EVERYTHING YOU DO WITH THIS CODE IS AT YOUR OWN RISK.
+
+INSTRUCTIONS
+------------
+
 To make a copy of this project you first need to get all libraries for Python
 
 * Libusb
